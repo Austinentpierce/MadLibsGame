@@ -18,9 +18,9 @@ namespace MadLibsGame
             celebrity = (Console.ReadLine());
 
 
-            Console.WriteLine("Roses are" + color);
-            Console.WriteLine(pluralNoun + "are blue");
-            Console.WriteLine("I love" + celebrity);
+            Console.WriteLine(" Roses are " + color);
+            Console.WriteLine(pluralNoun + " are blue");
+            Console.WriteLine(" I love " + celebrity);
 
             Console.ReadLine();
         }
